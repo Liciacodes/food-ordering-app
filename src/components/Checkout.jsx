@@ -10,7 +10,7 @@ import Error from "./Error";
 
 const requestConfig = {
   method: "POST",
-  header: {
+  headers: {
     "Content-Type": "application/json",
   },
 };
